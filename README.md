@@ -46,5 +46,5 @@
 
 
 ## Created by
-- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul.
-- Jungeob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul.
+- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul, Datamining Lab.
+- Jungseob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul, Datamining Lab.
