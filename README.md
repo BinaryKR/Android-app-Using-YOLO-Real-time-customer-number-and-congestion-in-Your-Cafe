@@ -38,3 +38,13 @@
 - application in the phone
 
 	<img src="img/3.jpg">
+
+
+
+## References
+
+
+
+## Created by
+- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul.
+- Jungeob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul.
