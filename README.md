@@ -34,6 +34,8 @@
 ## 실행 예시
 
 - cam_demo.py
+<img src="img/4.gif">
+
 <br><br>
 - application in the phone
 
@@ -46,5 +48,6 @@
 
 
 ## Created by
-- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul, Datamining Lab.
-- Jungseob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul, Datamining Lab.
+- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
+- Jungseob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
+- Juwon, Seo. (서주원)  - wndnjs3334@gmail.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
