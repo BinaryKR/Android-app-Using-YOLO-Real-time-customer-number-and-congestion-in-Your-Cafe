@@ -45,6 +45,9 @@
 
 ## References
 
+*eriklindernoren*<br>
+
+https://github.com/eriklindernoren/PyTorch-YOLOv3
 
 
 ## Created by
