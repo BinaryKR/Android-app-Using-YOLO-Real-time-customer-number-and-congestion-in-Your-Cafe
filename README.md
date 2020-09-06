@@ -47,10 +47,11 @@
 
 *eriklindernoren*<br>
 
+original code
 https://github.com/eriklindernoren/PyTorch-YOLOv3
 
 
 ## Created by
-- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
 - Jungseob, Lee. (이정섭) - omanma1928@naver.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
+- Jinsoo, Lee. (이진수) - jinsoo8409@naver.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
 - Juwon, Seo. (서주원)  - wndnjs3334@gmail.com - b.s. Dongguk Universitiy in Seoul, Data Mining Lab.
